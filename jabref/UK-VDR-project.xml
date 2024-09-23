@@ -21,10 +21,10 @@
           <entry key="workingDirectory" value="E:\Git\software-practice\jabref"/>
           <entry key="importWorkingDirectory" value="C:\Users\Nam Le\Downloads"/>
           <entry key="entryEditorHeightFX" value="0.590270551508845"/>
-          <entry key="mainWindowPosX" value="-9.0"/>
-          <entry key="mainWindowPosY" value="-9.0"/>
-          <entry key="mainWindowSizeX" value="1938.0"/>
-          <entry key="mainWindowSizeY" value="1158.0"/>
+          <entry key="mainWindowPosX" value="-7.199999809265137"/>
+          <entry key="mainWindowPosY" value="-7.199999809265137"/>
+          <entry key="mainWindowSizeX" value="1550.4000244140625"/>
+          <entry key="mainWindowSizeY" value="926.4000244140625"/>
           <entry key="lastFocused" value="E:\Git\software-practice\jabref\reference.bib"/>
           <entry key="versionIgnoreUpdate" value="5.15"/>
           <entry key="confirmDelete" value="false"/>
@@ -36,11 +36,11 @@
           <entry key="mainTableColumnNames" value="groups;linked_id;field:entrytype;field:Groups;field:title;special:readstatus;field:organization;field:creationdate;field:year;field:month;field:Validity;field:Asset;field:Discipline;field:Stage;field:Category;field:Requirement;field:Must;field:comment;field:timestamp;field:Register"/>
           <entry key="mainTableColumnWidths" value="28.0;28.0;130.0;111.99999999999994;272.6;28.0;177.60000000000002;115.0;60.0;100.0;152.58593750000009;148.79999999999984;100.0;100.0;120.0;125.79999999999995;100.0;100.0;100.0;100.0"/>
           <entry key="mainTableColumnSortTypes" value="DESCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;DESCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING"/>
-          <entry key="lastUsedExport" value="MyCustomExporter"/>
-          <entry key="exportWorkingDirectory" value="C:\Users\Nam Le\Downloads\Test"/>
+          <entry key="lastUsedExport" value="uk-vdr-project"/>
+          <entry key="exportWorkingDirectory" value="E:\Git\software-practice\jabref"/>
           <entry key="versionCheck" value="false"/>
           <entry key="searchCatalogs" value="ACM Portal;DBLP;IEEEXplore;Springer"/>
-          <entry key="fetcherCustomKeyNames" value="IEEEXplore;Biodiversity Heritage;Springer;ScienceDirect;SAO/NASA ADS"/>
+          <entry key="fetcherCustomKeyNames" value="IEEEXplore;Springer;Biodiversity Heritage;ScienceDirect;SAO/NASA ADS"/>
           <entry key="fetcherCustomKeyUses" value="false;false;false;false;false"/>
           <entry key="resolveStringsForFields" value="author;booktitle;editor;editora;editorb;editorc;institution;issuetitle;journal;journalsubtitle;journaltitle;mainsubtitle;month;publisher;shortauthor;shorteditor;subtitle;titleaddon"/>
           <entry key="nonWrappableFields" value="comment;url;isbn;issn"/>
@@ -60,9 +60,9 @@
           <entry key="vim" value="vim"/>
           <entry key="lyxpipe" value="C:\Users\Nam Le\.lyx/lyxpipe"/>
           <entry key="externalFileTypes" value="CHM:chm:application/mshelp::WWW;Djvu:djvu:image/vnd.djvu::FILE;Excel:xls:application/excel::FILE_EXCEL;Excel 2007+:xlsx:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet::FILE_EXCEL;GIF image:gif:image/gif::PICTURE;JPG image:jpg:image/jpeg::PICTURE;LaTeX:tex:application/x-latex::FILE_TEXT;MHT:mht:multipart/related::WWW;Markdown:md:text/markdown::FILE_TEXT;OpenDocument presentation:odp:application/vnd.oasis.opendocument.presentation::FILE_OPENOFFICE;OpenDocument spreadsheet:ods:application/vnd.oasis.opendocument.spreadsheet::FILE_OPENOFFICE;OpenDocument text:odt:application/vnd.oasis.opendocument.text::FILE_OPENOFFICE;PDF:pdf:application/pdf::PDF_FILE;PNG image:png:image/png::PICTURE;PostScript:ps:application/postscript::FILE;PowerPoint:ppt:application/vnd.ms-powerpoint::FILE_POWERPOINT;PowerPoint 2007+:pptx:application/vnd.openxmlformats-officedocument.presentationml.presentation::FILE_POWERPOINT;Rich Text Format:rtf:application/rtf::FILE_TEXT;TIFF image:tiff:image/tiff::PICTURE;Text:txt:text/plain::FILE_TEXT;URL:html:text/html::WWW;Word:doc:application/msword::FILE_WORD;Word 2007+:docx:application/vnd.openxmlformats-officedocument.wordprocessingml.document::FILE_WORD;ePUB:epub:application/epub+zip::WWW"/>
-          <entry key="xmpPrivacyFilters" value="note;owner;keywords;timestamp;review;pdf"/>
+          <entry key="xmpPrivacyFilters" value="note;review;pdf;owner;keywords;timestamp"/>
           <entry key="entryEditorPreviewDividerPos" value="0.8145633652822151"/>
-          <entry key="prefsExportPath" value="C:\Users\Nam Le\ARCADIS\Project Tiger (2024) - General\10. Reference\Archive\nam-preference.xml"/>
+          <entry key="prefsExportPath" value="E:\Git\software-practice\jabref\UK-VDR-project.xml"/>
           <entry key="exportInOriginalOrder" value="true"/>
           <entry key="exportInSpecifiedOrder" value="false"/>
           <entry key="exportPriSort" value="citationkey"/>
@@ -84,7 +84,7 @@
           <entry key="mergeEntriesShouldShowDiff" value="false"/>
           <entry key="windowMaximised" value="true"/>
           <entry key="defaultBibtexKeyPattern" value="[organization][year]"/>
-          <entry key="customExportFormat0" value="MyCustomExporter;C:\\\\Users\\\\Nam Le\\\\Downloads\\\\Test\\\\openoffice-csv;csv"/>
+          <entry key="customExportFormat0" value="uk-vdr-project;E:\\\\Git\\\\software-practice\\\\jabref\\\\openoffice-uk-vdr-csv;csv"/>
         </map>
         <node name="bibtexkeypatterns">
           <map/>
